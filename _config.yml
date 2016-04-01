@@ -5,12 +5,12 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
 title: Artist Theme
-email: your-email@domain.com
+email: zsw1129@163.com
 description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
-baseurl: "http://localhost:3000" # the subpath of your site, e.g. /blog
+baseurl: "http://zshanwei.github.io/" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
-url: "http://localhost:3000"
+url: "http://zshanwei.github.io/"
 # When developing, set this ^ equal to whatever localhost you're using
 
 # Socail Media links
